@@ -22,6 +22,8 @@ You will see all the actions completed automatically
 
 ## Performance Snaphot
 
+<img width="686" height="97" alt="image" src="https://github.com/user-attachments/assets/72d6d8ff-e7b1-45cf-bf26-dcab0d3c577f" />
+
 Overall Competition Accuracy: 91%
 
 
