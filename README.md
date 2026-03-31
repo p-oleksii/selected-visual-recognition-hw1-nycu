@@ -16,9 +16,9 @@ To install dependencies, run:
 
 ## Usage
 ## Training & Inference
-Please open .ipynb file and run all the cells, following the order of the file. Please don't forget to specify the dataset location
+Please open .ipynb file and run all the cells, following the order of the file. Please don't forget to specify the dataset location.
 
-You will see all the actions completed automatically
+ * You will see all the actions completed automatically
 
 ## Performance Snaphot
 
